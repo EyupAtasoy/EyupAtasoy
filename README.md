@@ -17,5 +17,11 @@ Public code: [llm-grounding-kit](https://github.com/EyupAtasoy/llm-grounding-kit
 the validation layer from that project, rewritten with synthetic data
 and a small benchmark.
 
+Case study: [BunkerIstanbul](https://github.com/EyupAtasoy/bunkeristanbul-case-study),
+a marine fuel marketplace and compliance platform I designed and built alone.
+
+I also make film and imagery with AI and run performance marketing:
+[eyupatasoy.github.io](https://eyupatasoy.github.io)
+
 [bunkeristanbul.com](https://bunkeristanbul.com) ·
 [LinkedIn](https://www.linkedin.com/in/eyup-enes-atasoy/)
